@@ -1,6 +1,6 @@
 # platzigram-api
 
-Pictures responsive website - API
+Nodejs project - API
 
 Responds to client requests, this project communicates with the database
 
